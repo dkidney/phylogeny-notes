@@ -1,0 +1,79 @@
+# Phanerozoic eras {#phanerozoic}
+
+https://en.wikipedia.org/wiki/Geologic_time_scale
+
+```{r, echo=FALSE, results='asis', message=FALSE}
+df = readr::read_tsv('data/phanerozoic-eras.tsv') |>
+  dplyr::mutate(to = dplyr::lag(from) |> tidyr::replace_na(0)) |>
+  dplyr::mutate(dplyr::across(from:to, as.character))
+
+era = function(era) {
+  df |> 
+    dplyr::filter(era == !!era) |>
+    dplyr::group_by(period) |>
+    dplyr::summarise(from = max(from), to = min(to)) |>
+    dplyr::arrange(to) |>
+    knitr::kable()
+}
+
+period = function(period) {
+  df |> 
+    dplyr::filter(period == !!period) |>
+    dplyr::select(epoch, age, from, to) |>
+    knitr::kable()
+}
+```
+
+## Cenozoic {#cenozoic}
+
+```{r, echo=FALSE}
+era('Cenozoic')
+```
+
+### Quaternary {#quaternary}
+
+```{r, echo=FALSE}
+period('Quaternary')
+```
+
+### Neogene {#neogene}
+
+```{r, echo=FALSE}
+period('Quaternary')
+```
+
+### Paleogene {#paleogene}
+
+```{r, echo=FALSE}
+period('Paleogene')
+```
+
+## Mesozoic {#mesozoic}
+
+```{r, echo=FALSE}
+era('Mesozoic')
+```
+
+### Cretaceous {#cretaceous}
+
+```{r, echo=FALSE}
+period('Cretaceous')
+```
+
+### Jurassic {#jurassic}
+
+```{r, echo=FALSE}
+period('Jurassic')
+```
+
+### Triassic {#triassic}
+
+```{r, echo=FALSE}
+period('Triassic')
+```
+
+## Paleozoic {#paleozoic}
+
+```{r, echo=FALSE}
+era('Paleozoic')
+```

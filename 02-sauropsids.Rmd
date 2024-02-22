@@ -1,0 +1,156 @@
+# Sauropsida {#sauropsida}
+
+* sibling taxon to Synapsida (\@ref(synapsida))
+* split into Parareptilia (\@ref(parareptilia)) and [Eureptilia](#eureptilia) during the end of the Carboniferous.
+
+***
+
+**Contents**
+
+* [Parareptilia]  
+* [Eureptilia]  
+  * [Diapsida] (late Carboniferous 300)
+    * Araeoscelidia (late Carboniferous 300)
+    * Neodiapsida (early Permian 290)
+      * Archelosauria (Permian 275?)
+        * [Testudines] (late Permian 260)
+        * Archosauromorpha (Guadalupian 272.95-259.1)  
+          * Archosauriformes (Lopingian 259.1-251.902)
+            * [Archosauria] (Olenekian 251.2-247.2)  
+              * [Avemetatarsalia] (Anisian 247.2-242)  
+                * [Dinosauria]
+                  * [Ornithischia]
+                  * [Saurischia]
+                    * [Therapoda]
+                * [Pterosauria]
+              * [Pseudosuchia]  
+          * Euryapsida (Late Permian Lopingian?)
+            * Ichthyosauromorpha
+            * [Sauropterygia] (Early Triassic 250?)
+              * [Placodontia]
+              * [Plesiosauria]
+            * [Thalattosauria]
+      * Lepidosauromorpha (Permian 275?)
+        * [Lepidosauria] (Early Triassic 251.9-247.2)
+          * Rhynchocephalia (incl. Tuatara) (Middle Triassic 247.2-237)
+          * Squamata (Middle Triassic 247.2-237)  
+            * Lizards (Middle Triassic 247.2-237)
+              * Snakes (Late Cretaceous)
+              * Mosasaurs (Late Cretaceous)
+
+***
+
+##### Aetosauria {-#aetosauria}
+
+***
+
+##### Archosauria {-#archosauria}
+
+* appeared during the Olenekian (247-251 Ma)  
+
+***
+
+##### Avemetatarsalia {-#avemetatarsalia}
+
+***
+
+##### Crocodilomorpha {-#crocodilomorpha}
+
+***
+
+##### Diapsida {-#diapsida}
+
+***
+
+##### Dinosauria {-#dinosauria}
+
+***
+
+##### Eureptilia {-#eureptilia}
+
+* end Carboniferous to present
+
+***
+
+##### Ichthyosauropmorpha
+
+***
+
+##### Lepidosauria {-#lepidosauria}
+
+***
+
+##### Nothosauria
+
+***
+
+##### Ornithischia
+
+***
+
+##### Ornithosuchia
+
+***
+
+##### Parareptilia {#parareptilia}
+
+End Carboniferous to Tr-J extinction
+
+Includes:
+
+* mesosaurs (first reptiles to return to marine ecosystems)
+* bolosaurids (first bipedal reptiles)
+* nycteroleterids (the first reptiles with advanced hearing systems)
+* pareiasaurs (first large herbivorous reptiles)
+* procolophonoids (the only parareptiles to survive into the Triassic)
+
+***
+
+##### Placodonts
+
+***
+
+##### Plesiosauria
+
+***
+
+##### Pseudosuchia {#pseudosuchia}
+
+***
+
+##### Pterosauria
+
+***
+
+##### Rauisuchia
+
+***
+
+##### Saurichia
+
+***
+
+##### Sauropodomorpha 
+
+***
+
+##### Sauropterygia
+
+***
+
+##### Testudines
+
+Previously placed within Parareptilia (\@ref(parareptilia)) due to anapsid skull morphology but recent molecular phylogenies have concluded they are likely to be a sister group of Archosauria - i.e. within Diapsida but having lost their diapsid skull characteristics.
+
+***
+
+##### Thalattosauria
+
+***
+
+##### Thalattosuchia
+
+***
+
+##### Therapoda
+

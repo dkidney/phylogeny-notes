@@ -1,0 +1,30 @@
+# Synapsids {#synapsida}
+
+* sibling taxon to Sauropsida (\@ref(sauropsida))
+
+## Therapsids
+
+### Dicynodonts
+
+### Cynodonts
+
+#### Mammals
+
+##### Monotremata
+
+##### Theria
+
+###### Marsupials
+
+###### Placentals
+
+####### Afrotheria
+
+####### Xenarthra
+
+####### Laurasiatheria
+
+####### Euar...
+
+
+
